@@ -1,4 +1,4 @@
-# SD2GAN
+# SD2GAN  
 SD2GAN: A Siamese Dual Discriminator Generative Adversarial Network for Mode Collapse Reduction. 
 
 This project implements the SD2GAN algorithm, presented in this [preprint paper](https://www.researchgate.net/publication/350109061_SD2GAN_A_Siamese_Dual_Discriminator_Generative_Adversarial_Network_for_Mode_Collapse_Reduction). 
